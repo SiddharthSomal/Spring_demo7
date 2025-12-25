@@ -43,6 +43,7 @@ Application starts by default at:
 arduino
 Copy code
 http://localhost:8080
+```
 🧪 3. Sample REST Endpoints
 Below are ready-to-implement examples commonly used in demo Spring apps.
 You can copy these classes directly into your project if desired.
